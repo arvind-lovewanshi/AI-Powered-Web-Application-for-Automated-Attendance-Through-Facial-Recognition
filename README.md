@@ -23,7 +23,7 @@ Designed for educational institutions, workplaces, and events, this web applicat
 - **scikit-learn** (KNN Classifier)
 - **Pandas**
 - **Pickle** (for training data storage)
-
+--
 
 ## 📌 How It Works
 
@@ -31,7 +31,7 @@ Designed for educational institutions, workplaces, and events, this web applicat
 2. Match detected faces with the trained dataset.
 3. On pressing **'o' key**, logs name & time to CSV.
 4. Streamlit dashboard auto-refreshes to show updated logs.
-
+--
 ## 📖 Use Cases
 
 - Classroom attendance automation
